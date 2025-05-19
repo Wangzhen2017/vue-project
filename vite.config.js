@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { defineConfig, loadEnv } from 'vite'
 import path from 'path'
 import createVitePlugins from './vite/plugins'
@@ -77,12 +76,4 @@ export default defineConfig(({ mode, command }) => {
       }
     }
   }
-=======
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [vue()],
->>>>>>> 63fe0c41e90611d082b82fc639e272d57317990f
 })

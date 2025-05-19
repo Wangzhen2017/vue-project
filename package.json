@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "ruoyi",
   "version": "3.8.9",
   "description": "若依管理系统",
@@ -48,22 +47,5 @@
   },
   "overrides": {
     "quill": "2.0.2"
-=======
-  "name": "vue-project",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "vue": "^3.5.13"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^5.2.3",
-    "vite": "^6.3.5"
->>>>>>> 63fe0c41e90611d082b82fc639e272d57317990f
   }
 }

@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
+<<<<<<< HEAD
 
 import Cookies from 'js-cookie'
 
@@ -80,3 +81,9 @@ app.use(ElementPlus, {
 })
 
 app.mount('#app')
+=======
+import './style.css'
+import App from './App.vue'
+
+createApp(App).mount('#app')
+>>>>>>> 63fe0c41e90611d082b82fc639e272d57317990f
